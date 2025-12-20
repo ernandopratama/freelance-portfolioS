@@ -23,3 +23,6 @@ This repository contains my CV, work samples, and project descriptions that demo
 ## 📂 Repository Structure
 
 https://github.com/ernandopratama/freelance-portfolioS.git
+
+
+Last updated: December 2025
